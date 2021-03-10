@@ -25,7 +25,9 @@
         "encryptedUserId",
         "encryptedUserIdCandidates",
         "gclid",
-        "mobileDeviceId"
+        "mobileDeviceId",
+        "matchID",
+        "dclid"
       ], "default":"encryptedUserId" }},
       "encryptionInfo":{
         "encryptionEntityId":{"field":{ "name":"encryption_entity_id", "kind":"integer", "order":3, "default":"" }},
