@@ -220,7 +220,7 @@
         }
       }
     }},
-    { "sdf_legacy": {
+    { "sdf": {
       "hour":[4],
       "auth": "user",
       "version": "5",
@@ -236,7 +236,7 @@
         }
       }
     }},
-    { "sdf_legacy": {
+    { "sdf": {
       "hour":[4],
       "auth": "user",
       "version": "5",
